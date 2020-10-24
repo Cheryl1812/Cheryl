@@ -1,0 +1,171 @@
+/*font-family: 'Barlow', sans-serif;
+
+font-family: 'Fjalla One', sans-serif;
+
+font-family: 'IM Fell French Canon', serif;
+
+font-family: 'Lora', serif;*/
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 90px;
+  color: #66BFBF;
+  margin-top: 0;
+  font-family: 'IM Fell French Canon', serif;
+}
+
+h2 {
+  font-family: 'IM Fell French Canon', serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #40514E 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.terence {
+  font-weight: normal;
+  width: 40rem;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #29303b;
+  padding: 10px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.LM {
+  width: 25%;
+  padding-left: 50px;
+  float: right;
+}
+
+.doggie {
+  width: 25%;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  float: left;
+}
+
+.profile-pic {
+  width: 25%;
+  margin: 20px auto;
+}
+
+.Intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.img-climb {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: white;
+  padding: 50px 0 20px;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8;
+  color: #FFFFFF;
+  font-family: 'IM Fell French Canon', serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px 20px 10px 20px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #33EDCE 1px;
+  background: #96D01E;
+  background-image: -webkit-linear-gradient(top, #96D01E, #3DF6E9);
+  background-image: -moz-linear-gradient(top, #96D01E, #3DF6E9);
+  background-image: -ms-linear-gradient(top, #96D01E, #3DF6E9);
+  background-image: -o-linear-gradient(top, #96D01E, #3DF6E9);
+  background-image: -webkit-gradient(to bottom, #96D01E, #3DF6E9);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
